@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Stephen Matusiak"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Help center to sysadmin to IT executive and a few things in between."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
